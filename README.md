@@ -25,10 +25,10 @@ Theodoros Kyriakou
 
 ## Results
 
-Original Image             
-
-<img src="Results/building.jpg" width="450" height="340"> 
-
-Edge Detection Results Images             
-
-<img src="Results/Edge_Detection_Results.png" width="450" height="340">
+Original Image             |  Edge Detection Results
+:-------------------------:|:-------------------------:
+<img src="Results/building.jpg" width="450" height="340">  |  <img src="Results/Edge_Detection_Results.png" width="450" height="340">
+Magnitude | 1st order partial derivatives
+<img src="Results/Image_gradient_magnitude.png" width="450" height="340"> | <img src="Results/Image_1st_order_partial_derivatives.png" width="450" height="340">
+Edge Thinning | Gaussian Blurring
+<img src="Results/Non-maximum_Suppression.png" width="450" height="340"> | <img src="Results/Gaussian_Blurring.png" width="450" height="340">
