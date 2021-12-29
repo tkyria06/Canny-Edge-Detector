@@ -1,6 +1,24 @@
-# Canny-Edge-Detector
 ## About
-###### This is an implementation of Canny Edge Detector algorithm with Python
+
+This is an implementation of Canny Edge Detector Algorithm with Python
+
 ## Prerequisites 
-> OpenCv
-pip install opencv-python
+
+Install OpenCV:
+```
+npm install --global gulp
+```
+
+Install Matplotlib:
+```
+pip install matplotlib
+```
+
+Install NumPy:
+```
+pip install numpy
+```
+
+## Author
+
+Theodoros Kyriakou
