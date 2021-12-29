@@ -26,9 +26,9 @@ Theodoros Kyriakou
 ## Results
 
 Original Image             
-:-------------------------:
+
 <img src="Results/building.jpg" width="450" height="340"> 
 
 Edge Detection Results Images             
-:-------------------------:
+
 <img src="Results/Edge_Detection_Results.png" width="450" height="340">
