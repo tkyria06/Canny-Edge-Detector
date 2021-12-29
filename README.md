@@ -19,6 +19,11 @@ Install NumPy:
 pip install numpy
 ```
 
+Run:
+```
+python Canny.py
+```
+
 ## Author
 
 Theodoros Kyriakou
