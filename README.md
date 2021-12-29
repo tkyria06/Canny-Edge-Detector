@@ -19,7 +19,7 @@ Install NumPy:
 pip install numpy
 ```
 
-Run:
+## Run:
 ```
 python Canny.py
 ```
