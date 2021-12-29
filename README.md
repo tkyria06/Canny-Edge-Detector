@@ -1,2 +1,3 @@
 # Canny-Edge-Detector
-Python Implementation 
+## About
+###### This is an implementation of Canny Edge Detector algorithm with Python
