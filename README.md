@@ -6,7 +6,7 @@ This is an implementation of Canny Edge Detector Algorithm with Python
 
 Install OpenCV:
 ```
-npm install --global gulp
+pip install opencv-python
 ```
 
 Install Matplotlib:
